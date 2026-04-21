@@ -1,21 +1,23 @@
-# Algemene Plaatselijke Verordening (APV) – FiveM Server
+# Echo Roleplay – Algemene Plaatselijke Verordening (APV)
 
-Deze APV is een richtlijn. Staff mag waar redelijk en billijk afwijken van de regels.
+Deze APV is van toepassing binnen Echo Roleplay.
 
-Het bestuur (Headstaff of hoger) mag te allen tijde maatregelen nemen in het belang van de server en haar spelers, ook zonder directe overtreding.
+De regels dienen als richtlijn. Staff mag, waar redelijk en billijk, afwijken van deze regels.
 
-Regels kunnen op elk moment worden gewijzigd. Staff kan daarnaast sancties opleggen voor situaties die niet expliciet in deze APV staan, maar wel logisch onder de regels vallen.
+Headstaff of hoger behoudt altijd het recht om maatregelen te nemen in het belang van Echo Roleplay en haar spelers, ook zonder directe overtreding.
+
+Regels kunnen op elk moment worden aangepast. Staff mag daarnaast sancties opleggen bij situaties die niet expliciet in deze APV staan, maar wel tegen de geest van de regels ingaan.
 
 Alle beslissingen worden genomen op basis van feiten, logs en/of staff-perspectief.
 
-Het is verplicht om POV (clip/recording) op te nemen ter bescherming van jezelf.
+Het is verplicht om POV (clip/recording) te maken voor eigen bescherming.
 
 ---
 
-# Sanctiesysteem
+# Echo Roleplay – Sanctiesysteem
 
 - **Categorie 1**: Waarschuwing  
-- **Categorie 2**: Korte ban (1–3 uur)  
+- **Categorie 2**: 1–3 uur ban  
 - **Categorie 3**: 6–12 uur ban  
 - **Categorie 4**: 1 dag ban  
 - **Categorie 5**: 2 dagen ban  
@@ -29,31 +31,31 @@ Het is verplicht om POV (clip/recording) op te nemen ter bescherming van jezelf.
 # Artikel 1 – Cheats & Misbruik
 
 ## 1.1 Cheats / Externe Software / Hardware
-Het gebruik van cheats of externe software/hardware om voordeel te behalen is verboden.
+Het gebruik van cheats, exploits of externe software/hardware om voordeel te behalen binnen Echo Roleplay is ten strengste verboden.
 
 **Sanctie:** Categorie 8–9
 
 Voorbeelden:
-- Cheaten op FiveM (ook andere servers)
-- DMA of hardware cheats
-- Spoofing / trace removal tools
-- Optimalisatie-tools die PC checks omzeilen
+- Cheaten op FiveM (ook op andere servers)
+- DMA / hardware cheats
+- Spoofing of trace removal tools
+- Software die PC checks probeert te omzeilen
 
 ### PC Checks
-Spelers moeten meewerken aan PC checks.
+Spelers van Echo Roleplay zijn verplicht mee te werken aan PC checks.
 
 Niet toegestaan:
 - Windows services manipuleren (SysMain, EventLog, etc.)
-- Prefetch/logs verwijderen
+- Prefetch of logs verwijderen
 - Virtuele drives/mounts gebruiken
-- CCleaner of vergelijkbare tools
+- Gebruik van cleaners zoals CCleaner of vergelijkbare tools
 
-Windows Defender is verplicht als antivirus.
+Windows Defender is verplicht als actieve antivirus.
 
 ---
 
 ## 1.2 Exploits / Bugs
-Exploits gebruiken of niet melden is verboden.
+Het gebruik maken van exploits of bugs is verboden en moet direct gemeld worden.
 
 **Sanctie:** Categorie 5–9
 
@@ -61,127 +63,127 @@ AFK-omzeiling valt hier ook onder.
 
 ---
 
-## 1.3 Alt Accounts
-- Geld/goods overzetten tussen alt accounts is verboden  
-- Startergeld misbruik is verboden  
+## 1.3 Alternatieve Accounts
+- Geld of items overzetten tussen accounts is verboden  
+- Misbruik van startergeld is verboden  
 
 **Sanctie:** Categorie 8
 
 ---
 
 ## 1.4 IRL Trading
-Handel in accounts, geld of items buiten het spel is verboden.
+Handel buiten Echo Roleplay om (geld, items of accounts) is verboden.
 
 **Sanctie:** Categorie 8–9
 
 ---
 
-## 1.5 Mass RDM/VDM
-Zonder reden massaal spelers doden.
+## 1.5 Mass RDM / VDM
+Het zonder geldige reden massaal doden van spelers is verboden.
 
 **Sanctie:** Categorie 8–9
 
 ---
 
 ## 1.6 Ticket / Refund Fraude
-Misleiding of herhaald indienen van dezelfde refund is verboden.
+Het misleiden van staff of het herhaald indienen van dezelfde zaak is verboden.
 
 **Sanctie:** Categorie 8–9
 
 ---
 
 ## 1.7 Doxing
-Het delen van niet-openbare persoonlijke informatie is verboden.
+Het verspreiden van privégegevens van spelers buiten Echo Roleplay is verboden.
 
 **Sanctie:** Categorie 8–9
 
 ---
 
 ## 1.8 Gedrag tegen Staff
-- Beledigen of bedreigen van staff = zware sancties  
-- IRL bedreigingen = permanente ban  
+- Beledigen, kleineren of bedreigen van staff is verboden  
+- IRL bedreigingen leiden direct tot permanente ban  
 
 ---
 
 # Artikel 2 – Roleplay Regels
 
 ## 2.1 FailRP
-RP verstoren of niet meewerken aan scenario’s.
+Het verstoren van roleplay of niet meewerken aan scenario’s.
 
 **Sanctie:** Categorie 1–5
 
 ---
 
 ## 2.2 Powergaming
-Oneerlijk voordeel creëren in RP.
+Het creëren van oneerlijke voordelen binnen roleplay.
 
 **Sanctie:** Categorie 1–5
 
 ---
 
 ## 2.3 Microfoon
-- Werkende microfoon verplicht  
+- Werkende microfoon is verplicht  
 - Nederlands of Engels verplicht  
-- Misbruik verboden  
+- Misbruik van voice is verboden  
 
 **Sanctie:** Categorie 1–5
 
 ---
 
 ## 2.4 Gangterreinen
-Onnodig op gangterreinen aanwezig zijn is verboden.
+Onnodig aanwezig zijn op gangterreinen is verboden.
 
 **Sanctie:** Categorie 4–7
 
 ---
 
 ## 2.5 Metagaming
-OOC informatie gebruiken IC is verboden.
+OOC informatie gebruiken in IC situaties is verboden.
 
 **Sanctie:** Categorie 3–7
 
 ---
 
 ## 2.6 Combat Logging
-Niet uitloggen tijdens actieve RP of combat.
+Het verlaten van de server tijdens actieve roleplay of combat is verboden.
 
 **Sanctie:**
 - 3 dagen ban + inventory wipe  
-- Oplopend bij herhaling tot 2 weken ban + wipe  
+- Bij herhaling: tot 2 weken ban + wipe  
 
 ---
 
 ## 2.7 NVOL (No Value of Life)
-Onrealistisch levensgedrag.
+Onrealistisch gedrag waarbij je geen waarde hecht aan je eigen leven.
 
-**Sanctie:** Categorie 1–9 afhankelijk van ernst
+**Sanctie:** Categorie 1–9 (afhankelijk van ernst)
 
 ---
 
-## 2.8 Stem/Gezichtsherkenning
-Realistische herkenning vereist. Misbruik verboden.
+## 2.8 Stem- en Gezichtsherkenning
+Realistische herkenning van spelers is verplicht. Misbruik is verboden.
 
 **Sanctie:** Categorie 3–5
 
 ---
 
-## 2.9 Onderwereld
-Crimineel gedrag moet realistisch blijven.
+## 2.9 Onderwereld Roleplay
+Crimineel gedrag moet realistisch en consistent zijn.
 
 **Sanctie:** Categorie 1–9
 
 ---
 
-## 2.10 Overheid
-Overheidsrollen moeten realistisch gespeeld worden.
+## 2.10 Overheids Roleplay
+Overheidsfuncties moeten professioneel en realistisch gespeeld worden.
 
 **Sanctie:** Categorie 1–9
 
 ---
 
 ## 2.11 Gangs
-- Max 23 leden + 2 hangarounds  
-- Geen ongoedgekeurde samenwerking  
+- Maximaal 23 leden + 2 hangarounds  
+- Samenwerkingen moeten goedgekeurd zijn  
 
 ---
 
@@ -193,45 +195,45 @@ Vrije PvP zone met specifieke regels.
 ---
 
 ## 2.13 Loodsen
-Verhuur op eigen verantwoordelijkheid.
+Verhuur van loodsen is op eigen risico.
 
 ---
 
 # Artikel 3 – Voertuigen
 
 ## 3.1 Realistisch rijden
-- Geen PIT boven 120 km/h  
-- Realistische voertuigclassificatie  
+- PIT boven 120 km/h is verboden  
+- Realistische voertuigclassificatie verplicht  
 
 **Sanctie:** Categorie 2–3
 
 ---
 
-## 3.2 VDM
-Voertuig als wapen gebruiken.
+## 3.2 Vehicle Deathmatch (VDM)
+Het gebruiken van voertuigen als wapen is verboden.
 
 **Sanctie:** Categorie 3–9
 
 ---
 
 ## 3.3 GTA Driving
-Onrealistisch rijgedrag.
+Onrealistisch rijgedrag is verboden.
 
 **Sanctie:** Categorie 3
 
 ---
 
-## 3.4 Voertuig scams
+## 3.4 Voertuig Scams
 Scammen met voertuigen is verboden.
 
-**Sanctie:** Categorie 9 + wipe indien nodig
+**Sanctie:** Categorie 9 + eventuele wipe
 
 ---
 
 ## 3.5 Vliegen
 - Realistisch landen verplicht  
 - Vliegbrevet vereist  
-- Geen gevaarlijke landingen  
+- Geen gevaarlijke landingen toegestaan  
 
 **Sanctie:** Categorie 3–9
 
@@ -239,42 +241,42 @@ Scammen met voertuigen is verboden.
 
 # Artikel 4 – Wapens
 
-## 4.1 RDM
-Killen zonder RP reden.
+## 4.1 Random Deathmatch (RDM)
+Doden zonder roleplay reden is verboden.
 
 **Sanctie:** Categorie 4–9
 
 ---
 
 ## 4.2 Wapengebruik
-Realistisch en verantwoord gebruik vereist.
+Wapens moeten realistisch en roleplay-gericht gebruikt worden.
 
 ---
 
 # Artikel 5 – Algemeen
 
-## 5.1 Staff namen
-Staff namen misbruiken is verboden.
+## 5.1 Staff Identiteit
+Het misbruiken of imiteren van staffnamen is verboden.
 
 ---
 
 ## 5.2 Taalgebruik
-- Geen racisme / seksisme / toxic gedrag  
+- Racisme, seksisme en toxic gedrag is verboden  
 
 **Sanctie:** Categorie 5–8
 
 ---
 
-## 5.3 Toxic gedrag
-Bedreigingen en intimidatie verboden.
+## 5.3 Toxic Gedrag
+Bedreigen, intimideren of toxisch gedrag is verboden.
 
 **Sanctie:** Categorie 3–8
 
 ---
 
-## 5.4 Streamers
+## 5.4 Streamers & Content Creators
 - Geen onderwereld locaties tonen  
-- Voorbeeldfunctie verplicht  
+- Je bent een voorbeeldfunctie binnen Echo Roleplay  
 
 ---
 
@@ -282,32 +284,32 @@ Bedreigingen en intimidatie verboden.
 
 ## 6.1 Reports
 - Geen spam  
-- Alleen relevante reports  
+- Alleen relevante reports toegestaan  
 
 ---
 
-## 6.2 Eerlijkheid tegen staff
-Altijd waarheid spreken verplicht.
+## 6.2 Eerlijkheid tegen Staff
+Altijd volledige waarheid vertellen aan staff.
 
 **Sanctie:** Categorie 6–9
 
 ---
 
-## 6.3 Staff impersonatie
+## 6.3 Staff Impersonatie
 Je voordoen als staff is verboden.
 
 **Sanctie:** Categorie 6–9
 
 ---
 
-## 6.4 Staff abuse
-Misbruik van staff-perms is verboden.
+## 6.4 Staff Abuse
+Misbruik van staff rechten is verboden.
 
 **Sanctie:** Categorie 8–9
 
 ---
 
-## 6.5 Onnodige tickets
-Tickets maken zonder geldige reden is verboden.
+## 6.5 Onnodige Tickets
+Het maken van onnodige tickets is verboden.
 
 **Sanctie:** Korte ban
